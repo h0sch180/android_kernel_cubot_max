@@ -6,6 +6,6 @@ export ARCH=arm64
 
 make clean && make mrproper
 
-make k5fpr_defconfig
+make cubot_max_defconfig
 
 make -j24
