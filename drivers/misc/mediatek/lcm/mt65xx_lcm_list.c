@@ -73,6 +73,12 @@ LCM_DRIVER *lcm_driver_list[] = {
 #if defined(OTM1283A)
 	&otm1283a_6589_hd_dsi,
 #endif
+
+//add by LCT yufangfang for s6d7aa6x01
+#if defined(LCT_S6D7AA6X01_HELITECH_720P_VDO)
+	&lct_s6d7aa6x01_helitech_720p_vdo_lcm_drv,
+#endif
+
 #if defined(OTM1282A_HD720_DSI_VDO_60HZ)
 	&otm1282a_hd720_dsi_vdo_60hz_lcm_drv,
 #endif

@@ -215,7 +215,7 @@ CONFIG_MMPROFILE=y
 CONFIG_MTK_LCM=y
 CONFIG_MTK_COMBO_AOSP_TETHERING_SUPPORT=y
 #lenovo_sw wengjun1 modify for k5 lcm support 20151229 begin
-CONFIG_CUSTOM_KERNEL_LCM="nt35596_fhd_dsi_vdo_tm otm1901_fhd_dsi_vdo_boe"
+CONFIG_CUSTOM_KERNEL_LCM="lct_s6d7aa6x01_helitech_720p_vdo"
 CONFIG_LENOVO_CUSTOM_LCM_FEATURE=y
 #lenovo_sw wengjun1 modify for k5 lcm support 20151229 end
 # CONFIG_MTK_LCM_DEVICE_TREE_SUPPORT is not set
